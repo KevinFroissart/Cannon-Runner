@@ -1,0 +1,82 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.
+sprite-Jump__000 {
+    width: 362px;
+    height: 483px;
+    background-position: -5px -5px;
+}
+
+.
+sprite-Jump__001 {
+    width: 362px;
+    height: 483px;
+    background-position: -377px -5px;
+}
+
+.
+sprite-Jump__002 {
+    width: 362px;
+    height: 483px;
+    background-position: -749px -5px;
+}
+
+.
+sprite-Jump__003 {
+    width: 362px;
+    height: 483px;
+    background-position: -5px -498px;
+}
+
+.
+sprite-Jump__004 {
+    width: 362px;
+    height: 483px;
+    background-position: -377px -498px;
+}
+
+.
+sprite-Jump__005 {
+    width: 362px;
+    height: 483px;
+    background-position: -749px -498px;
+}
+
+.
+sprite-Jump__006 {
+    width: 362px;
+    height: 483px;
+    background-position: -1121px -5px;
+}
+
+.
+sprite-Jump__007 {
+    width: 362px;
+    height: 483px;
+    background-position: -1121px -498px;
+}
+
+.
+sprite-Jump__008 {
+    width: 362px;
+    height: 483px;
+    background-position: -5px -991px;
+}
+
+.
+sprite-Jump__009 {
+    width: 362px;
+    height: 483px;
+    background-position: -377px -991px;
+}
+
+.
+sprite-Kunai {
+    width: 32px;
+    height: 160px;
+    background-position: -1493px -5px;
+}

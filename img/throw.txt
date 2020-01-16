@@ -1,0 +1,65 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Throw__000 {
+    width: 377px;
+    height: 451px;
+    background-position: -5px -5px;
+}
+
+.sprite-Throw__001 {
+    width: 377px;
+    height: 451px;
+    background-position: -392px -5px;
+}
+
+.sprite-Throw__002 {
+    width: 377px;
+    height: 451px;
+    background-position: -779px -5px;
+}
+
+.sprite-Throw__003 {
+    width: 377px;
+    height: 451px;
+    background-position: -5px -466px;
+}
+
+.sprite-Throw__004 {
+    width: 377px;
+    height: 451px;
+    background-position: -392px -466px;
+}
+
+.sprite-Throw__005 {
+    width: 377px;
+    height: 451px;
+    background-position: -779px -466px;
+}
+
+.sprite-Throw__006 {
+    width: 377px;
+    height: 451px;
+    background-position: -1166px -5px;
+}
+
+.sprite-Throw__007 {
+    width: 377px;
+    height: 451px;
+    background-position: -1166px -466px;
+}
+
+.sprite-Throw__008 {
+    width: 377px;
+    height: 451px;
+    background-position: -5px -927px;
+}
+
+.sprite-Throw__009 {
+    width: 377px;
+    height: 451px;
+    background-position: -392px -927px;
+}
